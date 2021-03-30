@@ -62,7 +62,7 @@
     "ml-matrix": "^5.0.1",
     "ml-param-grid": "^1.0.0",
     "mrz": "^3.1.0",
-    "ocr-tools": "^0.2.0",
+    "ocr-tools": "github:icodeforlove/ocr-tools#patch-1",
     "radians-degrees": "^1.0.0",
     "transformation-matrix": "^1.12.0"
   }
